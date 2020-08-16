@@ -1,7 +1,7 @@
 .neymar-block {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  align-items: center;
 }
 
 .neymar-block__item {
