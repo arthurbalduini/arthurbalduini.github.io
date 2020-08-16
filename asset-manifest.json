@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a8f6339.chunk.css",
+    "main.js": "/static/js/main.040c5907.chunk.js",
+    "main.js.map": "/static/js/main.040c5907.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3bcc2a15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3bcc2a15.js.map",
+    "static/js/2.4b67183b.chunk.js": "/static/js/2.4b67183b.chunk.js",
+    "static/js/2.4b67183b.chunk.js.map": "/static/js/2.4b67183b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.df4b7c923e0d3ea8af0d9326d2c17556.js": "/precache-manifest.df4b7c923e0d3ea8af0d9326d2c17556.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0a8f6339.chunk.css.map": "/static/css/main.0a8f6339.chunk.css.map",
+    "static/js/2.4b67183b.chunk.js.LICENSE.txt": "/static/js/2.4b67183b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Caveat-Regular.b20ff458.ttf",
+    "static/media/infinity-monkey-01.jpg": "/static/media/infinity-monkey-01.687e1ca2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bcc2a15.js",
+    "static/js/2.4b67183b.chunk.js",
+    "static/css/main.0a8f6339.chunk.css",
+    "static/js/main.040c5907.chunk.js"
+  ]
+}
