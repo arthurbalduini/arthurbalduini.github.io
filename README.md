@@ -1,2 +1,3 @@
-# https-arthurbalduini.github.io-
+# arthurbalduini.github.io
+
 Personal website
