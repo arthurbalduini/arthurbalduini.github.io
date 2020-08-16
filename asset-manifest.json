@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a8f6339.chunk.css",
-    "main.js": "/static/js/main.5092524c.chunk.js",
-    "main.js.map": "/static/js/main.5092524c.chunk.js.map",
+    "main.css": "/static/css/main.1501b32b.chunk.css",
+    "main.js": "/static/js/main.afc67a6d.chunk.js",
+    "main.js.map": "/static/js/main.afc67a6d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3bcc2a15.js",
     "runtime-main.js.map": "/static/js/runtime-main.3bcc2a15.js.map",
     "static/js/2.306f4485.chunk.js": "/static/js/2.306f4485.chunk.js",
     "static/js/2.306f4485.chunk.js.map": "/static/js/2.306f4485.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.17269bdba69c7e467008e08d8710eff4.js": "/precache-manifest.17269bdba69c7e467008e08d8710eff4.js",
+    "precache-manifest.f24c652b1de8c55a6cf446ece4aa1810.js": "/precache-manifest.f24c652b1de8c55a6cf446ece4aa1810.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0a8f6339.chunk.css.map": "/static/css/main.0a8f6339.chunk.css.map",
+    "static/css/main.1501b32b.chunk.css.map": "/static/css/main.1501b32b.chunk.css.map",
     "static/js/2.306f4485.chunk.js.LICENSE.txt": "/static/js/2.306f4485.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Caveat-Regular.b20ff458.ttf",
     "static/media/infinity-monkey-01.jpg": "/static/media/infinity-monkey-01.687e1ca2.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.3bcc2a15.js",
     "static/js/2.306f4485.chunk.js",
-    "static/css/main.0a8f6339.chunk.css",
-    "static/js/main.5092524c.chunk.js"
+    "static/css/main.1501b32b.chunk.css",
+    "static/js/main.afc67a6d.chunk.js"
   ]
 }
