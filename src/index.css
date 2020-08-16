@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "ArchitectsDaughter-Regular";
+}
+
+@font-face {
+  font-family: "Caveat";
+  src: url("./fonts/Caveat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "ArchitectsDaughter-Regular";
+  src: url("./fonts/ArchitectsDaughter-Regular.ttf") format("truetype");
+}

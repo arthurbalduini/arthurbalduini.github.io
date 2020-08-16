@@ -1,0 +1,17 @@
+.tool-bar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+.tool-bar__items {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-evenly;
+}

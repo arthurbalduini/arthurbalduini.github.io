@@ -1,0 +1,10 @@
+.neymar-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.neymar-block__item {
+  display: flex;
+  flex-direction: row;
+}
