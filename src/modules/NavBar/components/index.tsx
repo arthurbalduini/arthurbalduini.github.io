@@ -12,7 +12,7 @@ function ToolBar() {
       <nav>
         <div className={componentClassname}>
           <a href='/'>
-            <img src={monkeyLogo} />
+            <img alt='monkey-logo' src={monkeyLogo} />
           </a>
           <div className={`${componentClassname}__items`}>
             {routes.map((element) => (
