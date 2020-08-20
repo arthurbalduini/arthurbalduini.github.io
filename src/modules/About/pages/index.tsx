@@ -1,13 +1,16 @@
 import React from "react";
 import "./index.css";
+import Layout from "../../Layout";
 
 const componentClassname = "about";
 
 const About = () => {
   return (
-    <div className={componentClassname}>
-      <h1>Teste 321</h1>
-    </div>
+    <Layout>
+      <div className={componentClassname}>
+        <h1>Teste 321</h1>
+      </div>
+    </Layout>
   );
 };
 

@@ -1,11 +1,16 @@
-import React from "react";
+import React, { FC } from "react";
 import "./index.css";
+import Layout from "../../Layout";
 
-const Home = () => {
+const componentClassname = "home";
+
+const Home: FC = () => {
   return (
-    <div>
-      <h1>Teste 123</h1>
-    </div>
+    <Layout>
+      <div className={componentClassname}>
+        <h1>Teste 123</h1>
+      </div>
+    </Layout>
   );
 };
 
