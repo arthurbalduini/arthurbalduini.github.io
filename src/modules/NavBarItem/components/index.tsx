@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-//import "./index.css";
+import "./index.css";
 
 interface navBarProps {
   pageName: string;
@@ -9,8 +9,8 @@ interface navBarProps {
 
 export const NavBarItem: React.FC<navBarProps> = (props) => {
   return (
-    <Link to={props.link}>
-      <p className={`page-name`}>{props.pageName}</p>
+    <Link className={`page-name`} to={props.link}>
+      <p>{props.pageName}</p>
     </Link>
   );
 };
