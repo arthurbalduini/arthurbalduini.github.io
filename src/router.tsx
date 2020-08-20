@@ -12,7 +12,6 @@ function Routes() {
       <Route path='/' exact component={Home} />
       <Route path='/about' exact component={About} />
       <Route path='/random' exact component={Random} />
-      <Route path='/poetry' exact component={Home} />
     </HashRouter>
   );
 }

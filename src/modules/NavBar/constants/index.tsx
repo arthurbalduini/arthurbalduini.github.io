@@ -11,8 +11,4 @@ export const routes = [
     title: "Random Stuff",
     link: "/random",
   },
-  {
-    title: "Poetry",
-    link: "/poetry",
-  },
 ];
