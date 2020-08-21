@@ -8,7 +8,7 @@ const About = () => {
   return (
     <Layout>
       <div className={componentClassname}>
-        <h1>Teste 321</h1>
+        <h1>Contact me: arthurbalduini@gmail.com</h1>
       </div>
     </Layout>
   );
