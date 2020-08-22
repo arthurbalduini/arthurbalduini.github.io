@@ -11,7 +11,7 @@ const Home: FC = () => {
 
   useEffect(() => {
     TweenMax.from(item1, { x: -900, duration: 3, ease: Power2.easeOut });
-    TweenMax.from(item2, { x: 900, duration: 3, ease: Power2.easeOut });
+    TweenMax.from(item2, { x: 9000, duration: 3, ease: Power2.easeOut });
   }, []);
 
   return (
