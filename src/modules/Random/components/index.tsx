@@ -1,6 +1,7 @@
 import React from "react";
 import { neymarStats } from "../constants";
 import "./index.css";
+import neylixo from "../../../assets/neylixo.gif";
 
 const componentClassname = "neymar-block";
 
@@ -17,6 +18,7 @@ const NeymarBlock = () => {
           </div>
         );
       })}
+      <img className='lixo' src={neylixo} alt='Flowers in Chania' />
     </div>
   );
 };
