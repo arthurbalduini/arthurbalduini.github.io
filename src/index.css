@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "ArchitectsDaughter-Regular";
+  font-family: "Fredoka";
 }
 
 @font-face {
@@ -11,4 +11,9 @@ body {
 @font-face {
   font-family: "ArchitectsDaughter-Regular";
   src: url("./fonts/ArchitectsDaughter-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Fredoka";
+  src: url("./fonts/FredokaOne-Regular.ttf") format("truetype");
 }
