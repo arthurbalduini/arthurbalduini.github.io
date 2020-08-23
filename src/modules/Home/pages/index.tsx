@@ -1,7 +1,7 @@
 import React, { FC, useRef, useEffect } from "react";
 import "./index.css";
 import Layout from "../../Layout";
-import { TweenMax, Power2 } from "gsap";
+import { gsap, TweenMax, Power2 } from "gsap";
 
 const componentClassname = "home";
 
@@ -9,9 +9,22 @@ const Home: FC = () => {
   let item1: HTMLHeadingElement | any = useRef();
   let item2: HTMLHeadingElement | any = useRef();
 
+  const timeline = gsap.timeline();
   useEffect(() => {
-    TweenMax.from(item1, { x: -900, duration: 3, ease: Power2.easeOut });
-    TweenMax.from(item2, { x: 9000, duration: 3, ease: Power2.easeOut });
+    timeline.from(item1, {
+      x: -900,
+      duration: 2,
+      ease: Power2.easeOut,
+    });
+    timeline.from(
+      item2,
+      {
+        x: "-200%",
+        duration: 2,
+        ease: Power2.easeOut,
+      },
+      "-=1"
+    );
   }, []);
 
   return (
